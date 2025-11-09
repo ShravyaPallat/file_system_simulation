@@ -1,8 +1,6 @@
 //main program
-package app; // This class belongs to the 'app' package
-
 import java.util.Scanner;       // For taking user input
-import filesystem.FileSystem;   // Import FileSystem class from filesystem package
+import filesystem.*;   // Import FileSystem class from filesystem package
 
 // Main class that provides menu-driven program for interacting with the file system
 public class FileSystemApp {
