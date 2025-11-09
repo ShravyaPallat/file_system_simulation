@@ -89,6 +89,6 @@ Folder created: /root/documents
 
 ## 🙌 Authors
 
-This project was developed as part of a **Data Structures / Java Programming** assignment.
+This project was developed as part of a **Data Structures / Java Programming / AI** assignment by Shravya, Kiran and Pranjal.
 
 Feel free to modify and improve ✨
