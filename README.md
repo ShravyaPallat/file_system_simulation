@@ -8,16 +8,14 @@ It allows you to **create folders**, **create files**, **delete items**, **searc
 ## 📁 Project Structure
 
 ```
-File_System_simulation/
- ├─ src/
- │   ├─ filesystem/
- │   │   ├─ FileSystem.java   # Handles operations (create, delete, display, search)
- │   │   └─ Node.java         # Represents a file or folder in the tree
- │   │
- │   └─ app/
- │       └─ FileSystemApp.java  # Main menu-driven user interface
- │
- └─ out/  # Compiled .class files
+File_System_Simulation/
+│
+├─ filesystem/
+│   ├─ FileSystem.java      # Handles file system operations (create, delete, display, search)
+│   └─ Node.java            # Represents a file or folder in the tree
+│
+├─ FileSystemApp.java       # Main program providing the user interface
+└─ README.md                # Project documentation
 ```
 
 ---
